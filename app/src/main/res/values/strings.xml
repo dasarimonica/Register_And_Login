@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Register_And_Login</string>
+    <string name="WelcomePage">
+
+        <br><font size="26" color="#E4304B">Hi!</font>\n</br>
+        <br>\n</br>
+        <br><font size="20" color="#112F95">WELCOME </font>\n</br>
+
+        <br><font size="16" color="#112F95">This is your Home Page.</font>\n</br>
+    </string>
+    <string name="Magic">
+        <br><font size="20" color="#08070C" ><i>Let us have a Magical Semester </i></font>\n</br>
+    </string>
+
+</resources>
